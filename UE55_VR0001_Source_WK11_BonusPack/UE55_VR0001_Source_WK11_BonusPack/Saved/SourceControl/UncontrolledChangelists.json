@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/BP_Entity.uasset",
+				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/AIC_Entity.uasset",
+				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/BackRoom/Scenes/Level0.umap",
+				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/BP_Monster.uasset",
+				"C:/Unreal Projects/SM3612/Assignment3/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/BP_Door.uasset",
+				"C:/Users/Kelvin Lam/Documents/GitHub/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/BackRoom/Scenes/Level0.umap",
+				"C:/Users/Kelvin Lam/Documents/GitHub/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/BP_Entity.uasset",
+				"C:/Users/Kelvin Lam/Documents/GitHub/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/Material_001.uasset",
+				"C:/Users/Kelvin Lam/Documents/GitHub/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/Object_2.uasset",
+				"C:/Users/Kelvin Lam/Documents/GitHub/SM3612-VR-Level-Design-Group-Assignment-2/UE55_VR0001_Source_WK11_BonusPack/UE55_VR0001_Source_WK11_BonusPack/Content/Object_3.uasset",
+				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/VRTemplate/Blueprints/BP_Key.uasset",
+				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/VRTemplate/Blueprints/SlideDoor.uasset",
+				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/VRTemplate/Blueprints/BP_SlideDoor.uasset",
+				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/Weapon_Pack/Blueprints/BP_Shield.uasset",
+				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/Weapon_Pack/Blueprints/BP_Sword.uasset",
+				"D:/UEProject/UE55_VR0001_Source_WK11_Done - Copy/Content/VRTemplate/Blueprints/BP_SlideDoor1.uasset",
+				"D:/UEProject/UE55_VR0001_Source/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UEProject/UE55_VR0001_Source/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/UEProject/UE55_VR0001_Source/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JJ/OV4OPZKBMFTG7KLARI6PWA.uasset",
+				"D:/UEProject/UE55_VR0001_Source/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GE/EKH6K6M3P356ZGWOQLFJ5C.uasset"
+			]
+		}
+	]
+}
